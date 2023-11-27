@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ulrichkouame
-- 👀 I’m interested in Frontend ReactJs and WordPress Development
-- 🌱 I’m currently learning ReactNative
-- 💞️ I’m looking to collaborate on development
-- 📫 How to reach me ...
+- 👋 Hi, Je suis @ulrichkouame
+- 👀 Développeur Full Stack avec une solide expertise en JavaScript,
+- 🌱 je dispose de 6 ans d'expérience dans la création, le développement et l'optimisation de solutions web.
+- 💞️ Passionné par les innovations technologiques, je m'adapte rapidement aux nouveaux outils et langages
+- 📫 pour offrir des applications web performantes et répondant aux besoins spécifiques.
 
 <!---
 ulrichkouame/ulrichkouame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
