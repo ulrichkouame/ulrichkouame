@@ -1,8 +1,7 @@
-- 👋 Hi, Je suis @ulrichkouame
-- 👀 Développeur Full Stack avec une solide expertise en JavaScript,
-- 🌱 je dispose de 6 ans d'expérience dans la création, le développement et l'optimisation de solutions web.
-- 💞️ Passionné par les innovations technologiques, je m'adapte rapidement aux nouveaux outils et langages
-- 📫 pour offrir des applications web performantes et répondant aux besoins spécifiques.
+- Bonjour à tous !
+- Je suis un développeur Fullstack passionné par la technologie depuis 18 ans. Mes 7 années d'expérience m'ont permis de maîtriser la conception et la mise en œuvre de solutions logicielles et applicatives innovantes 💻🚀.
+- Mon profil comprend une forte expertise en programmation, gestion de projets et leadership technique, attestée par plusieurs certifications internationales 🏆.
+- N'hésitez pas à explorer mes projets et à me contacter pour discuter de collaborations et d'innovations technologiques 💬.
 
 <!---
 ulrichkouame/ulrichkouame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
